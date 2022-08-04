@@ -1,6 +1,6 @@
 # Auto Meta
 
-Auto start script example for meterperter
+Auto start script example for meterpreter
 
 ## Directions
 
