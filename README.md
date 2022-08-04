@@ -49,7 +49,7 @@ In this script we have...
 3. Set the LHOST
 4. Set the LPORT
 5. Set ExitOnSession false
-6. Ran as a job in he background
+6. Ran as a job in the background
 7. List the job (check its running)
 8. Set back command to return to normal meterpreter shell ready for next. 
 
